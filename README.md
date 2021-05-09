@@ -2,7 +2,21 @@
 
 I'm junlinp. A software engineer focus on SFM and Convex Optimization. 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+It's welcome to come here.
+
+# Leaning
+I'm currently learning Rotation Orientation Averaging.
+
+# TODO
+ADMM for bundle adjustment
+
+# Familiar with
+- CUDA
+- Programing, such as LP,SDP,SOCP.
+
+[![junlinp's GitHub stats](https://github-readme-stats.vercel.app/api?username=junlinp&show_icons=true&count_private=true&theme=vue)](https://github.com/junlinp/github-readme-stats)
+
+
 <!--
 **junlinp/junlinp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
