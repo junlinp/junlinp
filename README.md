@@ -4,15 +4,10 @@ I'm junlinp. A software engineer focus on SFM and Convex Optimization.
 
 It's welcome to come here.
 
-# Leaning
-I'm currently learning Rotation Orientation Averaging.
-
-# TODO
-ADMM for bundle adjustment
-
 # Familiar with
 - CUDA
 - Programing, such as LP,SDP,SOCP.
+- ADMM 
 
 [![junlinp's GitHub stats](https://github-readme-stats.vercel.app/api?username=junlinp&show_icons=true&count_private=true&theme=vue)](https://github.com/junlinp/github-readme-stats)
 
